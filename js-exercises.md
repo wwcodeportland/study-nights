@@ -17,7 +17,7 @@ You are new to JavaScript, but you are familiar with programming concepts.
 - JavaScript Exercises from [w3cresource] (http://www.w3resource.com/javascript-exercises/)
 
 ## Advanced
-You know programming and JavaScript, but you want more practice. Or some ideas and collaborators for side-projects projects. 
+You know programming and JavaScript, but you want more practice. Or some ideas and collaborators for side projects. 
 
 - Problems from [Project Euler] (https://projecteuler.net/archives)
 - JavaScript Exercises from [w3cresource] (http://www.w3resource.com/javascript-exercises/)
