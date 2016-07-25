@@ -2,9 +2,6 @@
 
 ## Beginner
 You are new to programming and to JavaScript.
-- Codecademy - [JavaScript Course] (https://www.codecademy.com/learn/javascript) - 10 hrs
-- Code School - [JavaScript Road Trip Part I] (https://www.codeschool.com/courses/javascript-road-trip-part-1)
-- [Nodeschool] (http://nodeschool.io/)
 - [FizzBuzz] (http://www.codecademy.com/courses/fizzbuzz/2/1)
 
 ## Intermediate
