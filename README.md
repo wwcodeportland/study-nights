@@ -2,14 +2,6 @@
 
 Women Who Code Portland has previously hosted weekly or monthly study nights focused on JavaScript, PHP, and Mobile development. For more info on our current study nights, visit our [Meetup page] (http://www.meetup.com/Women-Who-Code-Portland/).
 
-- Table of Contents
-  - [JavaScript](#javascript)
-  - [Algorithms and Interview Prep](#algorithms-and-interview-prep)
-  - [Design](#design)
-  - [Big Data](#big-data)
-  - [Security](#security)
-  - [General](#general)
-
 ## JavaScript 
 - Codecademy - [JavaScript Course] (https://www.codecademy.com/learn/javascript) - 10 hrs
 - Code School - [JavaScript Road Trip Part I] (https://www.codeschool.com/courses/javascript-road-trip-part-1)
