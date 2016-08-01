@@ -1,11 +1,11 @@
-# Algorithms Practice Exercises
+# Algorithms - Exercises
 
-## Practice Sites
+## Practice Problems
 
 - Problems from [Project Euler] (https://projecteuler.net/archives)
 - [Exercism.io] (http://exercism.io)
 
-## Algorithms For the Technical Interview Questions
+## Algorithms for the Technical Interview
 
 - [Top 15 Data Structures and Algorithm Interview Questions] (http://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 - [Top 10 Algorithms for Coding Interview] (http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
