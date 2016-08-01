@@ -1,4 +1,4 @@
-#JavaScript Practice Exercises
+# JavaScript Practice Exercises
 
 ## Beginner
 You are new to programming and to JavaScript.
