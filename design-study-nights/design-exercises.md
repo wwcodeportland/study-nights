@@ -1,4 +1,4 @@
-# Design Study Nights - Exercises
+# Design - Exercises
 
-## Practice Exercises
+## Practice Problems
 - Find a website you like and reverse-engineer its design
