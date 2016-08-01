@@ -3,7 +3,7 @@
 ## Practice Sites
 
 - Problems from [Project Euler] (https://projecteuler.net/archives)
-- [Exercism.io] (exercism.io)
+- [Exercism.io] (http://exercism.io)
 
 ## Algorithms For the Technical Interview Questions
 
