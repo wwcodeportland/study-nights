@@ -2,7 +2,7 @@
 
 Women Who Code Portland has previously hosted weekly or monthly study nights focused on JavaScript, PHP, and Mobile development. For more info on our current study nights, visit our [Meetup page] (http://www.meetup.com/Women-Who-Code-Portland/).
 
-## Algorithms and Interview Prep Study Nights
+## Algorithms and Interview Prep
 - [Resources] (algorithms-interview-prep-study-nights/algorithms-resources.md)
 - [Practice Exercises] (algorithms-interview-prep-study-nights/algorithms-exercises.md)
 
