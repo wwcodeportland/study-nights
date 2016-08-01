@@ -13,7 +13,7 @@ Women Who Code Portland has previously hosted weekly or monthly study nights foc
 ## Design
 - [Resources] (design-study-nights/design-resources.md)
 - [Practice Exercises] (design-study-nights/design-exercises.md)
-- 
+
 ## DevOps
 - [Resources] (devops-study-nights/devops-resources.md)
 - [Practice Exercises] (devops-study-nights/devops-exercises.md)
