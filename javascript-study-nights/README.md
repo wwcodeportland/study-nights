@@ -1,6 +1,6 @@
 # WWC JavaScript Study Nights
 
-## JavaScript makes the (internet) world go 'round.
+**JavaScript makes the (internet) world go 'round.**
 ![alt text](http://i.giphy.com/3UefM0f85ubQs.gif "spinning globe" )<br>
 *from [aem1k.com](http://aem1k.com/) (h/t [giphy](http://giphy.com))*
 
@@ -24,7 +24,7 @@
 - Have something to add? Make a [pull request]()!
 
 ## Study Night Info
-Typically **6pm - 8:30pm, 1st & 3rd Tuesdays @ Epicodus**.<br>
+Typically **6pm - 8:30pm, 1st & 3rd Tuesdays @ TBD**.<br>
 Please check our [Meetup page](https://www.meetup.com/Women-Who-Code-Portland/) for exact dates, cancelations, etc.
 
 Our goal is to provide a space and time where all feel welcome and encouraged to learn about, fan girl (or boy) about, admit confusion about, and learn to love that programming language that makes the internet go 'round: JavaScript.
