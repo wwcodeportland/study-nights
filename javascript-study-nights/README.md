@@ -1,6 +1,6 @@
 # WWC JavaScript Study Nights
 
-**JavaScript makes the (internet) world go 'round.**
+**JavaScript makes the (internet) world go 'round.**<br>
 ![alt text](http://i.giphy.com/3UefM0f85ubQs.gif "spinning globe" )<br>
 *from [aem1k.com](http://aem1k.com/) (h/t [giphy](http://giphy.com))*
 
