@@ -7,16 +7,16 @@
 ## Table of Contents
 
 #### I. Exercises & Resources
-- [Beginner]()
-- [Intermediate]()
-- [Advanced]()
-- [Level Agnostic]()
+- [Beginner](resources/beginner.md)
+- [Intermediate](resources/intermediate.md)
+- [Advanced](resources/advanced.md)
+- [Level Agnostic](resources/level-agnostic.md)
 
 #### II. Other
-- [Our Projects]()
-- [Podcasts, Videos, Blogs, oh my!]()
-- [JS Libraries We <3 (or want to learn)]()
-- [Interview Questions]()
+- [Our Projects](our-projects.md)
+- [Podcasts, Videos, Blogs, oh my!](media.md)
+- [JS Libraries We <3 (or want to learn)](libraries.md)
+- [Interview Questions](interview.md)
 
 ## How to use this repo
 - Star it.
@@ -32,10 +32,7 @@ Our goal is to provide a space and time where all feel welcome and encouraged to
 
 <!-- TODO
 
-- add links for TOC
-- create all pages for TOC
 - update info accordingly (ln27)
 - add link to resource about how to make a pr (ln 24)
-
 
  -->
