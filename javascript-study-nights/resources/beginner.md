@@ -11,11 +11,12 @@
 - [Exercises for after Codecademy](http://macloo.github.io/javascript_beginners/)
   - Create a [guessing game](http://macloo.github.io/javascript_beginners/number.html)
   - Update an [HTML quiz](http://macloo.github.io/javascript_beginners/quiz.html)
-- [Exercises in the browser console](http://macloo.github.io/javascript-console-intro/intro.html)
+
 
 ## Tutorials
 - Codecademy - [JavaScript Course](https://www.codecademy.com/learn/javascript) - 10 hrs
 - Code School - [JavaScript Road Trip Part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+- [JavaScript Intro (in the browser console)](http://macloo.github.io/javascript-console-intro/intro.html)
 - Node School (in computer's terminal) - [JavaScripting](https://github.com/sethvincent/javascripting)
 
 ## Reading
