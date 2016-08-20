@@ -11,28 +11,21 @@
 - [Intermediate](resources/intermediate.md)
 - [Advanced](resources/advanced.md)
 - [Level Agnostic](resources/level-agnostic.md)
+- [Library Specific](libraries.md)
 
 #### II. Other
 - [Our Projects](our-projects.md)
 - [Podcasts, Videos, Blogs, oh my!](media.md)
-- [Library Specific](libraries.md)
 - [Interview Questions](interview.md)
 
 ## How to use this repo
-- Star it.
+- Star it so you can easily find it in the future.
 - Browse it for exercises or resources that interest you. Each level (Beginner, Intermediate, Advanced) has links to Exercises, Tutorials, and Readings.
-- Have something to add? Make a [pull request]()!
+- Have something to add? Make a [pull request](http://hisham.hm/2016/01/01/how-to-make-a-pull-request-on-github-a-quick-tutorial/)!
+    - Unfamiliar with writing in markdown or need a refresher? Here's a [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Study Night Info
-Typically **6pm - 8:30pm, 1st & 3rd Tuesdays @ TBD**.<br>
+Typically **6pm - 9pm, 2nd & 4th Tuesdays @ [Epicodus](https://www.google.com/maps/place/Epicodus/@45.5207049,-122.6773971,17z/)**.<br>
 Please check our [Meetup page](https://www.meetup.com/Women-Who-Code-Portland/) for exact dates, cancelations, etc.
 
 Our goal is to provide a space and time where all feel welcome and encouraged to learn about, fan girl (or boy) about, admit confusion about, and learn to love that programming language that makes the internet go 'round: JavaScript.
-
-
-<!-- TODO
-
-- update info accordingly (ln27)
-- add link to resource about how to make a pr (ln 24)
-
- -->
