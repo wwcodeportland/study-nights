@@ -7,6 +7,6 @@
 - [Level Agnostic](resources/level-agnostic.md)
 
 ## And more
-- [Libraries](libraries.md)
+- [Library Specific Tutorials](libraries.md)
 - [Interview Questions](interview.md)
 - [Podcasts, Blogs, Etc](media.md)
