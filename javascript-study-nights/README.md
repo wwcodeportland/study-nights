@@ -15,7 +15,7 @@
 #### II. Other
 - [Our Projects](our-projects.md)
 - [Podcasts, Videos, Blogs, oh my!](media.md)
-- [JS Libraries We <3 (or want to learn)](libraries.md)
+- [Library Specific](libraries.md)
 - [Interview Questions](interview.md)
 
 ## How to use this repo
