@@ -10,3 +10,4 @@
     - A lightning talk by Gary Bernhardt from CodeMash 2012
 
 ## Blogs
+- [Perfection Kills](http://perfectionkills.com/)
