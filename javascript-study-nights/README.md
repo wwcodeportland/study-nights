@@ -25,7 +25,6 @@
     - Unfamiliar with writing in markdown or need a refresher? Here's a [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Study Night Info
-Typically **6pm - 9pm, 2nd & 4th Tuesdays @ [Epicodus](https://www.google.com/maps/place/Epicodus/@45.5207049,-122.6773971,17z/)**.<br>
 Please check our [Meetup page](https://www.meetup.com/Women-Who-Code-Portland/) for exact dates, cancelations, etc.
 
 Our goal is to provide a space and time where all feel welcome and encouraged to learn about, fan girl (or boy) about, admit confusion about, and learn to love that programming language that makes the internet go 'round: JavaScript.
