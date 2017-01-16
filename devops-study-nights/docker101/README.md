@@ -1,5 +1,7 @@
 # Docker 101
 Resources to present an introduction to Docker presentation or workshop
+Thank You Mike Coleman for providing this content
+https://github.com/mikegcoleman
 
 * Docker 101 Powerpoint Presentation with detailed speaker notes
 * Catweb demo script
