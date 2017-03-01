@@ -6,7 +6,7 @@
 - [Repo](https://github.com/Grace-Andrews/upandrun)
 
 ### Docker - January 2017
-*Pending*
+- [Docker 101](https://github.com/wwcodeportland/study-nights/tree/master/devops-study-nights/docker101)
 
 ### Chef - February 2017
 *Pending*
