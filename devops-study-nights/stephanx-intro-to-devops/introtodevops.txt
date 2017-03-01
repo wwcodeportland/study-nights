@@ -1,0 +1,109 @@
+What is DevOps:
+
+- Development Operations
+  . The philosophy and practice of supporting services through their entire lifecycle.
+
+Primary Roles:
+
+- Developer Support
+  . Systems Access
+  . Service and Capacity Planning
+  . Source Control Management (git, svn, etc)
+
+- Systems Administration
+  . Secrets & Access Management
+  . Configuration Management
+    : User Management
+    : Package Management
+    : Service Configuration
+  . Monitoring and Logging
+    (Subplot - Pagerduty/Alert Management)
+  . Infrastructure Provisioning
+    : DNS
+    : Network Planning
+
+- Release Management
+
+- Cloud Operations
+  . Provisioning
+  . Instance Management
+
+- Service Architecture
+  . Disaster Recovery
+  . Capacity Planning
+
+Secondary Roles:
+
+- Security
+  . Reviewing Logs for Anomalies
+  . Regularly checking for important security patches
+  . Serve as a check against Developers not following best-practices
+
+- Database Management
+
+What we aren't (generally) supposed to be:
+
+- Information Technology
+- Client Support
+- Backend Development
+- On-Call 24x7/365
+
+Concepts and Tools:
+
+  - Developer Support
+    . Secure Shell (SSH)
+    . Source Control Management (SCM) e.g. git, svn
+
+  - Systems Administration
+    . Right Tools for the Right Job
+    . Off-the-rack solutions, always
+    . Modern solutions, always
+    . Server OS
+      : Red Hat vs Ubuntu
+    . Configuration Management
+      : Puppet, Chef, Ansible
+    . Core System Services
+      : SSHD
+      : NTP
+      : Upstart/SystemD/SysV
+      : Monitoring & Logging Daemons
+    . Monitoring and Logging
+      : Resolution
+      : Retention
+      : Distributed Systems
+      : Monitoring - customer failure, Nagios, Sensu, 3rd Parties, Cloudwatch
+      : Alerting - Cron, Pagerduty, Pingdom
+      : Logging - on-disk, rsyslog, ELK, 3rd Parties
+    . Infrastructure Provisioning
+      : Network Isolation
+      : DNS, or "Dude, where's my service?"
+
+  - Release Management
+    . The Art of Making Services Run
+    . Different Codes, Different Tools
+      : Docker - Just About Anything
+      : Java - Maven => Jars
+      : Python - Pip, PEX (Developed by Twitter)
+      : Ruby - Gem, Capistrano
+      : Generic - Jenkins, Rundeck, Config Mgmt Tool, Plain Old Git
+      : System Packages - Advanced Packaging Tool (DEB), Yellowdog Updater, Modified (RPM)
+
+  - Cloud Operations
+    . Provisioning
+      : Need what you use, use what you need
+    . Instance Management
+      : Always Use Source Control Management
+      : Ghosts are alive
+      : Provisioning Tools - bash scripts, aws-tools, chef/ansible, terraform, cloud formation (AWS)
+
+  - Service Architecture
+    . Disaster Recovery
+      : Everything Must Break
+      : All Services Stand Alone
+      : All Eggs in Two Baskets
+      : Time to Recovery (TTR)
+    . Capacity Planning
+      : Ideal Solution + Minimum Viable Solution
+      : Regular Check-in for Right Size
+      : Kill Everything, Often
+
