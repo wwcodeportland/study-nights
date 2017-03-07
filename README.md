@@ -10,7 +10,7 @@ Women Who Code Portland has previously hosted weekly or monthly study nights foc
 - [Resources](big-data/big-data-resources.md)
 - [Practice Exercises](big-data/big-data-exercises.md)
 
-## Design
+## Design + Product
 - [Resources](design/design-resources.md)
 - [Practice Exercises](design/design-exercises.md)
 
