@@ -5,18 +5,25 @@ import math
 
 def isPalindrome(n):
     string = str(n)
-    for i, char in enumerate(string):
-        if char != string[-i-1]:
-            return False
-        return True
+    return string == string[::-1]
 
-def isSquare(n):
-    if math.sqrt(n) % 1 == 0:
-        return True
-    return False
+def enumPalindromes(n, m):
+    for i in range(n, m):
+        if isPalindrome(i):
+            yield i
 
 def getSquare(n):
-    return int(math.sqrt(n))
+    if n == 0:
+        return 0
+    lg = (n.bit_length() + 1)//2
+    x = 1 << lg
+    while True:
+        y = (x + n//x)//2
+        if y >= x:
+            break
+        x = y
+    return x
+
 
 cases = 0
 ranges = []
@@ -28,13 +35,19 @@ with open(sys.argv[1], 'r') as inputtxt:
 
 filename = sys.argv[1].split('.')[0] + '.out'
 outputtxt = open(filename, 'w')
-for i in range(0, cases):
-    outputtxt.write("Case #" + str(i+1) + ': ')
+for i in range(cases):
+    outputtxt.write("Case #" + str(i) + ': ')
     fairandsquare = 0
-    for j in range(int(ranges[i][0]), int(ranges[i][1])+1):
-        if isPalindrome(j) and isSquare(j):
-            squareRoot = getSquare(j)
-            if isPalindrome(squareRoot):
-                fairandsquare += 1
+    lower = int(ranges[i][0])
+    upper = int(ranges[i][1])
+    print i
+    n = getSquare(lower-1)+1
+    m = getSquare(upper)
+    print upper
+    for j in enumPalindromes(n, m+1):
+        if isPalindrome(j*j):
+            fairandsquare += 1
+    print i
+    print str(fairandsquare)
     outputtxt.write(str(fairandsquare) + '\n')
 outputtxt.close()
