@@ -1,0 +1,29 @@
+function processData(input) {
+    var arr = input.split("");
+    var new_arr = [];
+    for (var i = 0; i < arr.length; i++) {
+        if (i == arr.length -1) {
+            new_arr.push(arr[i]);
+        } else if(arr[i] != arr[i+1]){
+            new_arr.push(arr[i]);
+        } else {    
+            i++;
+        }
+    }
+    if(new_arr.join("") !== input){
+        processData(new_arr.join(""))
+    } else {
+    console.log(new_arr.length == 0 ? "Empty String" : new_arr.join(""));
+    }
+} 
+
+process.stdin.resume();
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
+});
+
+process.stdin.on("end", function () {
+   processData(_input);
+});

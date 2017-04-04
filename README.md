@@ -2,25 +2,25 @@
 
 Women Who Code Portland has previously hosted weekly or monthly study nights focused on JavaScript, PHP, and Mobile development. For more info on our current study nights, visit our [Meetup page](http://www.meetup.com/Women-Who-Code-Portland/).
 
-## Algorithms and Interview Prep
-- [Resources](algorithms-interview-prep-study-nights/algorithms-resources.md)
-- [Practice Exercises](algorithms-interview-prep-study-nights/algorithms-exercises.md)
+## Algorithms 
+- [Resources](algorithms/algorithms-resources.md)
+- [Practice Exercises](algorithms/algorithms-exercises.md)
 
 ## Big Data
-- [Resources](big-data-study-nights/big-data-resources.md)
-- [Practice Exercises](big-data-study-nights/big-data-exercises.md)
+- [Resources](big-data/big-data-resources.md)
+- [Practice Exercises](big-data/big-data-exercises.md)
 
-## Design
-- [Resources](design-study-nights/design-resources.md)
-- [Practice Exercises](design-study-nights/design-exercises.md)
+## Design + Product
+- [Resources](design/design-resources.md)
+- [Practice Exercises](design/design-exercises.md)
 
 ## DevOps
-- [Resources](devops-study-nights/devops-resources.md)
-- [Practice Exercises](devops-study-nights/devops-exercises.md)
+- [Resources](devops/devops-resources.md)
+- [Practice Exercises](devops/devops-exercises.md)
 
 ## JavaScript 
-- [Resources](javascript-study-nights/js-resources.md)
-- [Practice Exercises](javascript-study-nights/js-exercises.md)
+- [Resources](javascript/js-resources.md)
+- [Practice Exercises](javascript/js-exercises.md)
 
 ## More Resources
 - Git/GitHub

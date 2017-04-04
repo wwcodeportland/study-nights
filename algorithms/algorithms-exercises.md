@@ -4,6 +4,8 @@
 
 - Problems from[Project Euler](https://projecteuler.net/archives)
 - [Exercism.io](http://exercism.io)
+- [HackerRank](http://hackerrank.com)
+- Past [Google Code Jam Problems](http://code.google.com/codejam/contests.html)
 
 ## Algorithms for the Technical Interview
 
