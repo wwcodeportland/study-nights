@@ -13,6 +13,9 @@
 - JavaScript Exercises from [w3cresource](http://www.w3resource.com/javascript-exercises/)
 
 ## Tutorials
+- [Build a URL Shortener](https://codetuts.tech/build-a-url-shortener-node-hapi-js/)
+  - using Node.js, MongoDB, Hapi.js
+  
 
 
 ## Reading
