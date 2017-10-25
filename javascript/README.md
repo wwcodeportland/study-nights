@@ -14,6 +14,7 @@
 - [Library Specific](libraries.md)
 
 #### II. Other
+- [2018 (sort of) schedule](2018.md)
 - [Our Projects](our-projects.md)
 - [Podcasts, Videos, Blogs, oh my!](media.md)
 - [Interview Questions](interview.md)
