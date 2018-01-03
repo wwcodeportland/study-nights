@@ -1,0 +1,65 @@
+1. Create local directory for your project
+mkdir PROJECT/NAME
+
+2. Download a Vagrant box
+vagrant box add minimal/trusty64
+
+3. Initialize your virtual environment
+vagrant init minimal/trusty64
+
+4. Boot your virtual machine
+vagrant up
+
+5. Shut down your virtual machine
+vagrant halt
+
+6. Save a snapshot
+vagrant snapshot push
+
+7. Configure local IP address and domain name
+nano Vagrantfile
+  config.vm.network "private_network", ip: "22.22.22.22"
+
+nano /etc/hosts
+  22.22.22.22 mytestsite.com
+
+8. Configure port forwarding
+nano Vagrantfile
+  config.vm.network "forwarded_port", guest: 80, host: 8080
+
+9. Configure Vagrantfile to update apt-get and install apache
+nano Vagrantfile
+  config.vm.provision "shell", inline: <<-SHELL
+    apt-get update
+    apt-get install -y apache2
+  SHELL
+vagrant reload
+vagrant provision
+
+10. SSH into your VM
+vagrant ssh
+
+11. Configure apache to use localhost as its server
+sudo nano /etc/apache2/apache2.conf
+  ServerName localhost
+sudo service apache restart
+
+12. View your webserver by navigating to 22.22.22.22 in a browser
+
+13. Create a URL that can be accessed publicly
+vagrant share (may need to install ngrok https://ngrok.com/download by unzipping in /usr/local/bin/)
+
+14. Note that /vagrant is synced to your local project directory
+touch /vagrant/foo
+Now foo also lives locally at PROJECT/NAME/foo
+
+15. Add more synced folders
+nano Vagrantfile
+config.vm.synced_folder "../data", "/vagrant_data"
+
+
+Some troubleshooting:
+1. Make sure the latest version of VirtualBox is installed (5.2.4 as of January 3, 2017)
+2. Shut down your Virtual Machine and install/update VirtualBox GuestAdditions to resolve guest additions error
+`vagrant plugin install vagrant-vbguest`
+`vagrant reload`
