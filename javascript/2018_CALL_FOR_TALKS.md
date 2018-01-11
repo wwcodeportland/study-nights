@@ -1,8 +1,8 @@
 # Hi there!
 
-Thanks for peeking at our schedule for 2018! We're trying something new this year for our study nights: we want to give y'all the chance to talk about your code, or your experience learning JavaScript, or something awesome you've created. We'll start each study night with 1-2 lightning talks (5-10 minutes) before releasing everyone to individual/paired studying.
+Thanks for peeking at our schedule for 2018! We're trying something new this year for our study nights: we want to give y'all the chance to talk about your code, or your experience learning JavaScript, or something awesome you've created. We'll start each study night with 1-2 lightning talks (5-10 minutes) before switching to individual/paired studying.
 
-If you're reading through the topics and are (even the *tiniest* bit) interested in giving a brief talk on one of them (or a relevant subject), contact Sarah Joy ([twitter](http://twitter.com/superissarah) or [email](mailto:sarahjoy@alchemycodelab.com)) or Haley ([twitter](https://twitter.com/haley_elder)) ASAP.
+If you're reading through the topics below and are (even the *tiniest* bit) interested in giving a brief talk on one of them (or a relevant subject), contact Sarah Joy ([twitter](http://twitter.com/superissarah) or [email](mailto:sarahjoy@alchemycodelab.com)) or Haley ([twitter](https://twitter.com/haley_elder) or [email](hello@haleyelder.com)) ASAP.
 
 ## Monthly Topics
 Our plan is to spend the first half of the year focusing on core JavaScript concepts. The second half, we'll focus on using JavaScript related tools like build tools and frameworks. However, these topics aren't set in stone and if you'd like to present on something similar or related, please ask.
@@ -38,4 +38,4 @@ Presentations should be short (10 minutes or less), and we will happily work wit
 ## Okay, real talk
 I know you had a moment of inspiration recently—a slight lift in your heart/chest area—little light bulb emojis in your eyes—if you're thinking this isn't your time to try, I'm telling you it is—come share your light with us.
 
-Again, if you are (even the *tiniest* bit) interested in giving a brief talk on one of the above topics (or a relevant subject), contact Sarah Joy ([twitter](http://twitter.com/superissarah) or [email](mailto:sarahjoy@alchemycodelab.com)) or Haley ([twitter](https://twitter.com/haley_elder)) ASAP.
+Again, if you are (even the *tiniest* bit) interested in giving a brief talk on one of the above topics (or a relevant subject), contact Sarah Joy ([twitter](http://twitter.com/superissarah) or [email](mailto:sarahjoy@alchemycodelab.com)) or Haley ([twitter](https://twitter.com/haley_elder) or [email](hello@haleyelder.com)) ASAP.
