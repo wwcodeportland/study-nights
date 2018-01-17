@@ -36,7 +36,7 @@ The above examples are very specific, but also very made up. We're looking for w
 Presentations should be short (10 minutes or less), and we will happily work with you to refine your talk.
 
 ## Audience Info
-Our study nights tend to be on the more intimate side - maybe a dozen people at best. The perfect size for getting to know each other, having conversations, and your first or third foray into talking about code in front of a group. Skill levels range from total newbie to years of programming skills.
+Our study nights tend to be on the more intimate side - usually around a dozen to twenty people. The perfect size for getting to know each other, having conversations, and your first or third foray into talking about code in front of a group. Skill levels range from total newbie to years of programming skills.
 
 ## Okay, real talk
 I know you had a moment of inspiration recently—a slight lift in your heart/chest area—little light bulb emojis in your eyes—if you're thinking this isn't your time to try, I'm telling you it is—come share your light with us.
