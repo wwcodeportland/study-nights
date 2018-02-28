@@ -42,3 +42,10 @@ Text about tonight's challenge.
 
 ## Upcoming Events
 - [Event Name](https://www.meetup.com/Women-Who-Code-Portland/)
+
+
+---------
+
+## We're looking for speakers!
+- You've got something to share, and we've got a time/place/and kind audience for you to share with!
+- More info here: http://bit.ly/wwc-js-talk
