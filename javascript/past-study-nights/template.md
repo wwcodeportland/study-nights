@@ -25,7 +25,7 @@ Social Links/Info:
 
 [Full Version of Code of Conduct](https://www.meetup.com/Women-Who-Code-Portland/pages/22236117/Code_of_Conduct/)
 
-## Thank you to our sponsor [Tozny](https://tozny.com/) and [Metal Toad](https://www.metaltoad.com/) for the space!
+## Thank you to our sponsor [Act-On](https://www.act-on.com/) for the space and the pizza!
 
 ----------------
 
