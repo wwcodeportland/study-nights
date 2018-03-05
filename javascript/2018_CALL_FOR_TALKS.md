@@ -11,7 +11,7 @@ Our plan is to spend the first half of the year focusing on core JavaScript conc
 | --- | --- | --- |
 | January 31 | Sharing, finding, and building resources |
 | February 28 | JavaScript and your browser: browser API's | 👀
-| March 14 | Hackathon Prep! | 
+| March 14 | TBD | 
 | April 11 | Scope, and Closures, and Hoisting, oh my | 👀
 | May 9 | Promises, promises, promises | 👀
 | June 13 | ES6 and probably also ES8 | 👀
