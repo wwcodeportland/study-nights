@@ -1,6 +1,6 @@
 
 ### DevOps tools + Kubernetes - January 2019
-- [Intro to Kubernetes](https://github.com/wwcodeportland/study-nights/blob/master/devops-study-nights/January_2019_wwcode_pdx_devops_study_night.pdf) - by Stacy Watts and Tricia Radcliffe
+- [Intro to Kubernetes](../devops-study-nights/January_2019_wwcode_pdx_devops_study_night.pdf) - by Stacy Watts and Tricia Radcliffe
 
 ### DevOps - March 2017
 - [Intro to DevOps](https://github.com/wwcodeportland/study-nights/blob/master/devops-study-nights/stephanx-intro-to-devops/introtodevops.txt) - by Stephan Budge
