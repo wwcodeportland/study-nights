@@ -13,7 +13,7 @@ A study group is a fun and simple event for members of varying experience levels
   - describe format of the event
   - who is the audience
   - add Code of Conduct
-  - parking/biking/getting there intructions
+  - parking/biking/getting there instructions
 - Market the Event:
   - Calagator
   - Add to our newsletter
