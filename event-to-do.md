@@ -23,7 +23,7 @@ A study group is a fun and simple event for members of varying experience levels
 - Send event reminder with instructions on how to get to/enter venue
 
 ## Day of Event
-- Email to hosting company with last-minute details (RSVPs, what time WWC will arrive, nametags, etc)
+- Email to hosting company with last-minute details (RSVPs, what time WWCode will arrive, nametags, etc)
 - Arrive 30-min prior to event start
 - bring stickers, pins, giveaways (if any)
 - set-up space
