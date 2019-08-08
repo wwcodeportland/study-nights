@@ -22,6 +22,9 @@ Women Who Code Portland has previously hosted weekly or monthly study nights foc
 - [Resources](javascript/js-resources.md)
 - [Practice Exercises](javascript/js-exercises.md)
 
+## Security
+- [Practice Exercises](security/security-exercises.md)
+
 ## More Resources
 - Git/GitHub
   - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-introduction-to-github)  
