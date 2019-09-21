@@ -1,3 +1,6 @@
+### DevOps tools + Kubernetes - January 2019
+- [CICD (Continuous Integration Continuous Deployment) - md](../devops-study-nights/2019_09_11_wwcode_pdx_devops-study-night.md) - by Stacy Watts
+- [CICD (Continuous Integration Continuous Deployment) - pdf](../devops-study-nights/2019_09_11_wwcode_pdx_devops-study-night.pdf) - by Stacy Watts
 
 ### DevOps tools + Kubernetes - January 2019
 - [Intro to Kubernetes](../devops-study-nights/January_2019_wwcode_pdx_devops_study_night.pdf) - by Stacy Watts and Tricia Radcliffe
